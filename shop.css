@@ -1,0 +1,148 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: #E6F9F9;
+}
+
+
+/* Top */
+#top {
+	text-align: center;
+	background-color: black;
+	color: white;
+	font-size: 2rem;
+	margin-top: 3%;
+	width: 70%;
+	justify-content: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#top p{
+	padding: 0!important;
+}
+
+
+.tilbud{
+	text-align: left;
+	line-height: 0;
+	padding: 0;
+	
+}
+#pris{
+	color: red;
+}
+h5{
+	margin-bottom: 4%!important;
+}
+
+.item_thumb{
+	height:345px!important;
+}
+
+#billeder:hover {
+  -ms-transform: scale(1.7); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.7); 
+	transition: 0.3s;
+}
+
+.simpleStore_getDetail{
+	cursor: pointer;
+}
+
+.button{color: white!important;
+		background-color: black!important;
+		border-color: black!important;
+	}
+
+h1{
+			
+			border-top: solid 2px #CE0003;
+			text-align: center;
+			margin: auto;
+			padding-top: 3%;
+			
+			width: 70%;
+		}
+		
+		p{
+			text-align: center;
+			padding: 3% 12%;
+			line-height: 2.3em;
+		}
+
+.fragt{
+	color: darkred;
+	padding: 0;
+	maergin:0;
+	text-align: center;
+}
+
+.item_description{
+	margin-left: 0px !important;
+	padding-left: 0px;
+	text-align: left;
+	color:#000000;
+	
+}
+	/* footer */
+
+
+footer {
+    background-color: black;
+    color: white;
+    max-width: 100%;
+    margin-top: 10%;
+    float: left;
+    width: 100%;
+	bottom: 0;
+}
+		
+		.social-icon {
+    margin: 0;
+   
+    
+    bottom: 40px;
+   
+    display: flex;
+    width: 100%;
+    padding: 0 20px;
+    box-sizing: border-box;
+	justify-content: center;
+}
+			h3{
+				text-align: center;
+				margin-bottom: 0;
+			}
+.social-icon li{
+	
+	text-align: center;
+	list-style: none; 
+}	
+	
+.social-icon li a{
+	display: block;
+	font-size: 18px;
+	color: white;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50%;
+	transition: .5s;
+}	
+
+
+.social-icon li a:hover{
+	background: #FC2827;
+	 transition: all 0.4s ease-in-out;
+	
+}
+		
+		.footertekst{
+			margin: 0;
+			padding: 0;
+		}
+	

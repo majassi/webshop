@@ -1,0 +1,66 @@
+{
+	"products" : [
+		{
+			"name" : "Elefanten",
+			"price" : "199.99",
+			"options" : [
+				{ "Size" : "S,M,L,XL,XXL" }
+			],
+			"image" : "mestpopulære2.jpg",
+			"description" : "Enkel T-shirt med en elegant Elefant"
+		},
+		{
+			"name" : "Bjørnen",
+			"price" : "199.99",
+			"options" : [
+				{ "Size" : "S,M,L,XL,XXL" },
+				
+			    { "OneOfAKind" : true }
+			],
+			"image" : "Bjørnfærdig1.jpg",
+			"description" : "Enkel T-shirt med en elegant Bjørn",
+			"soldOut" : true
+		},
+		{
+			"name" : "Giraffen",
+			"price" : "199.99",
+			"options" : [
+				{ "Size" : "S,M,L,XL,XXL" }
+			],
+			"image" : "giraffærdig1.jpg",
+			"description" : "Enkel T-shirt med en elegant Giraf"
+		},
+	
+
+		{
+			"name" : "Vores dyr t-shirt",
+			"price" : "199.99",
+			"options" : [
+				{ "Size" : "S,M,L,XL,XXL" }
+			],
+			"image" : "Logotshirtfærdig1.jpg",
+			"description" : "Enkelt T-shirt med vores designet logo"
+		},
+		{
+			"name" : "Skildpadden",
+			"price" : "199.99",
+			"options" : [
+				{ "Size" : "S,M,L,XL,XXL" },
+				
+			    { "OneOfAKind" : true }
+			],
+			"image" : "skildpadde1.jpg",
+			"description" : "Enkel T-shirt med en elegant Skildpadde",
+			"soldOut" : true
+		},
+		{
+			"name" : "Næsehornet",
+			"price" : "199.99",
+			"options" : [
+				{ "Size" : "S,M,L,XL,XXL" }
+			],
+			"image" : "Næsehornfærdig1.jpg",
+			"description" : "Enkel T-shirt med en elegant Næsehorn"
+		}
+	]
+}
